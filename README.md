@@ -1,34 +1,46 @@
 # awesome-dogs
 ## Databases
-* [Pet FBI](https://petfbi.org) Database for lost and found pets
+### Genetics
 * [Penn Vet](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) Pet genetic diseases database
-* [Animal Science Database](https://www.cabi.org/animalscience/) Animal Science Database supporting research in animal production, welfare and health.
-* [WormBase ParaSite](https://parasite.wormbase.org/index.html) Database for genetic information for parasites
-* [Global Mammal Parasite Database](https://parasites.nunn-lab.org/data/) Database to show parasitic interaction with specific species of mammals
-* [OlfactionBase](https://olfab.iiita.ac.in/olfactionbase/) A repository of Odors, Odorants, Olfactory Receptors and related information
-* [Animal Welfare Institute Refinement Database](https://awionline.org/content/refinement-database) Database on refinement of housing, husbandry, care, and use of animals in research
-* [Human Animal Bond Research Institute](https://habricentral.org) Database of human-animal bond research
-* [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) An 120 dog breeds of over 20,000 images
 * [Dog Aging Project](https://dogagingproject.org/open_data_access/) Database related to maximize longevity of dogs
 * [NHGRI Dog Genome Project](https://research.nhgri.nih.gov/dog_genome/) Database for Dog genetics
-* [Movebank](https://www.movebank.org/cms/movebank-main) Animal Tracking Database
-* [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
+### Human Interaction
+* [Animal Welfare Institute Refinement Database](https://awionline.org/content/refinement-database) Database on refinement of housing, husbandry, care, and use of animals in research
+* [Animal Science Database](https://www.cabi.org/animalscience/) Animal Science Database supporting research in animal production, welfare and health.
+* [Human Animal Bond Research Institute](https://habricentral.org) Database of human-animal bond research
+### Media
+* [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) An 120 dog breeds of over 20,000 images
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
+### Missing
+* [Pet FBI](https://petfbi.org) Database for lost and found pets
+### Parasites
+* [WormBase ParaSite](https://parasite.wormbase.org/index.html) Database for genetic information for parasites
+* [Global Mammal Parasite Database](https://parasites.nunn-lab.org/data/) Database to show parasitic interaction with specific species of mammals
+### Senses
+* [OlfactionBase](https://olfab.iiita.ac.in/olfactionbase/) A repository of Odors, Odorants, Olfactory Receptors and related information
+### Stains
+* [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
 ## Education
+### Breeding
+* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics)
+### Animal Health
 * [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition)
 * [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)
 * [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs)
-* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics)
 * [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions)
 ## Literature
+### Genetics
 * [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
+* [The Institute of Canine Biology](https://www.instituteofcaninebiology.org)
 * [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10)
 ## Miscellaneous
-* [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+### Poison Control
 * [Animal Poison Control](https://www.petpoisonhelpline.com)
 * [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control)
-* [The Institute of Canine Biology](https://www.instituteofcaninebiology.org)
 * [Can My Dog Eat](https://canmydogeat.netlify.app)
+### Simulation
+* [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+### White Noise
 * [myNoise](https://mynoise.net)
 ## Projects
 * [Arduino and Raspberry Pi Powered Pet Monitoring System](https://www.instructables.com/Arduino-and-Raspberry-Pi-Powered-Pet-Monitoring-Sy/)
