@@ -29,6 +29,7 @@
 * [ASPCA Animal Poison Control](https://www.aspca.org/pet-care/animal-poison-control)
 * [The Institute of Canine Biology](https://www.instituteofcaninebiology.org)
 * [Can My Dog Eat](https://canmydogeat.netlify.app)
+* [myNoise](https://mynoise.net)
 ## Projects
 * [Arduino and Raspberry Pi Powered Pet Monitoring System](https://www.instructables.com/Arduino-and-Raspberry-Pi-Powered-Pet-Monitoring-Sy/)
 * [IoT Pet Monitor!](https://www.instructables.com/Bark-Back-Monitor-Interact-With-Pets/)
@@ -43,4 +44,28 @@
 * [Doggy Door Security and Pet Tracker](https://www.hackster.io/30622/doggy-door-security-and-pet-tracker-f67bdc)
 * [TinyML Dog Bark Stopper](https://www.hackster.io/NathanielF/tinyml-dog-bark-stopper-77e436)
 ## Software
-
+* [Frisbee project](https://frisbeetool.eu/FrisbeeTool/about.html)
+* [OpenHAB](https://www.openhab.org)
+* [VetGeo](https://www.vetgeo.com)
+* [OpenVPMS](https://openvpms.org)
+* [VetteV](https://sourceforge.net/projects/vettev/)
+* [Pet Pawpularity](https://github.com/BexTuychiev/pet_pawpularity)
+* [Open Source Clinical Image and Object Management](https://www.dcm4che.org)
+* [Evette](https://sourceforge.net/projects/evette/)
+* [QIIME 2](https://qiime2.org)
+* [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) Determine the breed of a dog in an image
+* [Adoptable pet bot](https://www.serverless.com/examples/adoptable-pet-bot)
+* [PhysioZoo](https://physiozoo.com)
+* [Petfinder API](https://www.petfinder.com/developers/v2/docs/)
+* [Dachs](https://github.com/rhysd/Dachs)
+* [Pet Focus](https://github.com/roverdotcom/pet-focus)
+* [Doggo](https://github.com/gussell87/doggo)
+* [PawPal](https://github.com/ehofesmann/PawPal)
+* [Woofie](https://github.com/junagao/woofie)
+* [Dogspotting](https://github.com/rileynwong/dogspotting)
+* [Dog Bark Detector](https://github.com/lincolnhard/dog-bark-detector)
+* [Homeassistant Petsafe](https://github.com/dcmeglio/homeassistant-petsafe)
+* [Hass TryFi](https://github.com/sbabcock23/hass-tryfi) Home Assistant integration for TryFi Dog Collar GPS monitoring.
+* [Dog Facts API](https://github.com/DucNgn/Dog-Facts-API-v2) An API returns random dog facts
+* [dogTorch](https://github.com/ehsanik/dogTorch) Modeling Dog Behavior From Visual Data
+* [Open Pedigree](https://github.com/phenotips/open-pedigree) Robust browser-based genomic pedigree drawing solution.
