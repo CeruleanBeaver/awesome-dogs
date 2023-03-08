@@ -14,15 +14,15 @@
 * [Movebank](https://www.movebank.org/cms/movebank-main) Animal Tracking Database
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
-## Literature
-* [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
-* [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10)
 ## Education
 * [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition)
 * [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)
 * [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs)
 * [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics)
 * [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions)
+## Literature
+* [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
+* [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10)
 ## Miscellaneous
 * [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 * [Animal Poison Control](https://www.petpoisonhelpline.com)
