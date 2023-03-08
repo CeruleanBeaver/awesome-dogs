@@ -20,7 +20,6 @@
 * [OlfactionBase](https://olfab.iiita.ac.in/olfactionbase/) A repository of Odors, Odorants, Olfactory Receptors and related information
 ### Stains
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
-
 ## Education
 ### Breeding
 * [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics)
@@ -29,13 +28,11 @@
 * [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)
 * [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs)
 * [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions)
-
 ## Literature
 ### Genetics
 * [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
 * [The Institute of Canine Biology](https://www.instituteofcaninebiology.org)
 * [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10)
-
 ## Miscellaneous
 ### Poison Control
 * [Animal Poison Control](https://www.petpoisonhelpline.com)
@@ -45,7 +42,6 @@
 * [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 ### White Noise
 * [myNoise](https://mynoise.net)
-
 ## Projects
 * [Arduino and Raspberry Pi Powered Pet Monitoring System](https://www.instructables.com/Arduino-and-Raspberry-Pi-Powered-Pet-Monitoring-Sy/)
 * [IoT Pet Monitor!](https://www.instructables.com/Bark-Back-Monitor-Interact-With-Pets/)
@@ -59,7 +55,6 @@
 * [Smart Dog Bed](https://www.hackster.io/xrigau/smart-dog-bed-1c9737)
 * [Doggy Door Security and Pet Tracker](https://www.hackster.io/30622/doggy-door-security-and-pet-tracker-f67bdc)
 * [TinyML Dog Bark Stopper](https://www.hackster.io/NathanielF/tinyml-dog-bark-stopper-77e436)
-
 ## Software
 * [Frisbee project](https://frisbeetool.eu/FrisbeeTool/about.html)
 * [OpenHAB](https://www.openhab.org)
