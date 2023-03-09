@@ -81,3 +81,5 @@
 * [OpenVPMS](https://openvpms.org) open veterinary professional management software.
 * [VetteV](https://sourceforge.net/projects/vettev/) open source veterinary management software.
 * [Open Source Clinical Image and Object Management](https://www.dcm4che.org) collection of open source applications and utilities for the healthcare enterprise.
+# Contributions
+This is open contribution in regards to people submitting information relevant to the topic of Dogs.
