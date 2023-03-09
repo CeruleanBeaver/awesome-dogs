@@ -22,12 +22,12 @@
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
 ## Education
 ### Breeding
-* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics)
+* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) Professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
 ### Animal Health
-* [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition)
-* [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)
-* [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs)
-* [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions)
+* [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) A Dog psychology course on Coursera, presented by Duke university. 
+* [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) An Animal welfare course on Coursera, presented by the university of Edinburgh.
+* [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs) A pet behaviour course on Coursera, presented by the university of Edinburgh.
+* [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions) A Dog behaviour course on Edx, presented by the Arizona State University.
 ## Literature
 ### Genetics
 * [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
@@ -61,34 +61,30 @@
 ### Adoption
 * [Adoptable pet bot](https://www.serverless.com/examples/adoptable-pet-bot)
 ### API
-* [Petfinder API](https://www.petfinder.com/developers/v2/docs/)
+* [Petfinder API](https://www.petfinder.com/developers/v2/docs/) An API of access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. 
 * [Dog Facts API](https://github.com/DucNgn/Dog-Facts-API-v2) An API returns random dog facts
 ### Bioinformatics
-* [QIIME 2](https://qiime2.org)
+* [QIIME 2](https://qiime2.org) 
 * [PhysioZoo](https://physiozoo.com)
 ### Friend Finder
-* [Woofie](https://github.com/junagao/woofie)
+* [Woofie](https://github.com/junagao/woofie) find new buddies for your dog.
 ### Home
-* [Frisbee project](https://frisbeetool.eu/FrisbeeTool/about.html)
-* [OpenHAB](https://www.openhab.org)
-* [Homeassistant Petsafe](https://github.com/dcmeglio/homeassistant-petsafe)
+* [OpenHAB](https://www.openhab.org) Smart home, open source automation tool.
 * [Hass TryFi](https://github.com/sbabcock23/hass-tryfi) Home Assistant integration for TryFi Dog Collar GPS monitoring.
 ### Machine Learning
-* [PawPal](https://github.com/ehofesmann/PawPal)
-* [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) Determine the breed of a dog in an image
-* [dogTorch](https://github.com/ehsanik/dogTorch) Modeling Dog Behavior From Visual Data
-* [Dogspotting](https://github.com/rileynwong/dogspotting)
-* [Dog Bark Detector](https://github.com/lincolnhard/dog-bark-detector)
-* [Pet Pawpularity](https://github.com/BexTuychiev/pet_pawpularity)
+* [PawPal](https://github.com/ehofesmann/PawPal) Training your dog while you are away.
+* [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) Determine the breed of a dog in an image.
+* [dogTorch](https://github.com/ehsanik/dogTorch) Modeling Dog Behavior From Visual Data.
+* [Dogspotting](https://github.com/rileynwong/dogspotting) Computer vision to draw bounding boxes around dogs in pictures.
+* [Dog Bark Detector](https://github.com/lincolnhard/dog-bark-detector) Detect dog bark from spectrogram classification.
+* [Pet Pawpularity](https://github.com/BexTuychiev/pet_pawpularity) Figuring out cuteness score of your pets.
 ### Pedigree
 * [Open Pedigree](https://github.com/phenotips/open-pedigree) Robust browser-based genomic pedigree drawing solution.
-* [Doggo](https://github.com/gussell87/doggo)
+* [Doggo](https://github.com/gussell87/doggo) Right breed based on your lifestyle search.
 ### Photography
-* [Pet Focus](https://github.com/roverdotcom/pet-focus)
-### Programming Language
-* [Dachs](https://github.com/rhysd/Dachs)
+* [Pet Focus](https://github.com/roverdotcom/pet-focus) An image view that automatically centers on dogs and cats.
 ### Veterinary
-* [VetGeo](https://www.vetgeo.com)
+* [VetGeo](https://www.vetgeo.com) 
 * [OpenVPMS](https://openvpms.org)
 * [VetteV](https://sourceforge.net/projects/vettev/)
 * [Open Source Clinical Image and Object Management](https://www.dcm4che.org)
