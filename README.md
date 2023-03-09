@@ -1,38 +1,38 @@
 # awesome-dogs
 ## Databases
 ### Genetics
-* [Penn Vet](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) Pet genetic diseases database
-* [Dog Aging Project](https://dogagingproject.org/open_data_access/) Database related to maximize longevity of dogs
-* [NHGRI Dog Genome Project](https://research.nhgri.nih.gov/dog_genome/) Database for Dog genetics
+* [Penn Vet](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) pet genetic diseases database
+* [Dog Aging Project](https://dogagingproject.org/open_data_access/) database related to maximize longevity of dogs
+* [NHGRI Dog Genome Project](https://research.nhgri.nih.gov/dog_genome/) database for Dog genetics
 ### Human Interaction
-* [Animal Welfare Institute Refinement Database](https://awionline.org/content/refinement-database) Database on refinement of housing, husbandry, care, and use of animals in research
-* [Animal Science Database](https://www.cabi.org/animalscience/) Animal Science Database supporting research in animal production, welfare and health.
-* [Human Animal Bond Research Institute](https://habricentral.org) Database of human-animal bond research
+* [Animal Welfare Institute Refinement Database](https://awionline.org/content/refinement-database) database on refinement of housing, husbandry, care, and use of animals in research
+* [Animal Science Database](https://www.cabi.org/animalscience/) animal Science Database supporting research in animal production, welfare and health.
+* [Human Animal Bond Research Institute](https://habricentral.org) database of human-animal bond research
 ### Media
-* [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) An 120 dog breeds of over 20,000 images
+* [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) an 120 dog breeds of over 20,000 images
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
 ### Missing
-* [Pet FBI](https://petfbi.org) Database for lost and found pets
+* [Pet FBI](https://petfbi.org) database for lost and found pets
 ### Parasites
-* [WormBase ParaSite](https://parasite.wormbase.org/index.html) Database for genetic information for parasites
-* [Global Mammal Parasite Database](https://parasites.nunn-lab.org/data/) Database to show parasitic interaction with specific species of mammals
+* [WormBase ParaSite](https://parasite.wormbase.org/index.html) database for genetic information for parasites
+* [Global Mammal Parasite Database](https://parasites.nunn-lab.org/data/) database to show parasitic interaction with specific species of mammals
 ### Senses
-* [OlfactionBase](https://olfab.iiita.ac.in/olfactionbase/) A repository of Odors, Odorants, Olfactory Receptors and related information
+* [OlfactionBase](https://olfab.iiita.ac.in/olfactionbase/) a repository of Odors, Odorants, Olfactory Receptors and related information
 ### Stains
-* [Stain Solutions](https://web.extension.illinois.edu/stain/) Stain Removal Database
+* [Stain Solutions](https://web.extension.illinois.edu/stain/) stain Removal Database
 ## Education
 ### Breeding
-* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) Professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
+* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
 ### Animal Health
-* [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) A Dog psychology course on Coursera, presented by Duke university. 
-* [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) An Animal welfare course on Coursera, presented by the university of Edinburgh.
-* [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs) A pet behaviour course on Coursera, presented by the university of Edinburgh.
-* [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions) A Dog behaviour course on Edx, presented by the Arizona State University.
+* [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) a Dog psychology course on Coursera, presented by Duke university. 
+* [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) an Animal welfare course on Coursera, presented by the university of Edinburgh.
+* [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs) a pet behaviour course on Coursera, presented by the university of Edinburgh.
+* [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions) a Dog behaviour course on Edx, presented by the Arizona State University.
 ## Literature
 ### Genetics
-* [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639)
-* [The Institute of Canine Biology](https://www.instituteofcaninebiology.org)
-* [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10)
+* [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639) research article with data from Darwins Ark.
+* [The Institute of Canine Biology](https://www.instituteofcaninebiology.org) consortium of canine biologists.
+* [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10) relational database "DOG-SPOT" (Dogs, Owners, Genotypes, Samples, Pedigrees, Oligos and Traits) implemented in Microsoft Access
 ## Miscellaneous
 ### Poison Control
 * [Animal Poison Control](https://www.petpoisonhelpline.com)
@@ -59,33 +59,32 @@
 * [The MuttMentor](https://www.hackster.io/whatsupdog/the-muttmentor-9d9753)
 ## Software
 ### Adoption
-* [Adoptable pet bot](https://www.serverless.com/examples/adoptable-pet-bot)
+* [Adoptable pet bot](https://www.serverless.com/examples/adoptable-pet-bot) tweets adoptable pets using Serverless (Node.js) and AWS Lambda.
 ### API
-* [Petfinder API](https://www.petfinder.com/developers/v2/docs/) An API of access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. 
-* [Dog Facts API](https://github.com/DucNgn/Dog-Facts-API-v2) An API returns random dog facts
+* [Petfinder API](https://www.petfinder.com/developers/v2/docs/) an API of access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. 
+* [Dog Facts API](https://github.com/DucNgn/Dog-Facts-API-v2) an API returns random dog facts
 ### Bioinformatics
-* [QIIME 2](https://qiime2.org) 
-* [PhysioZoo](https://physiozoo.com)
+* [QIIME 2](https://qiime2.org) microbiome bioinformatics platform
+* [PhysioZoo](https://physiozoo.com) collaborative platform dedicated to the study of continuous physiological time series analysis from Human and other mammals.
 ### Friend Finder
 * [Woofie](https://github.com/junagao/woofie) find new buddies for your dog.
 ### Home
-* [OpenHAB](https://www.openhab.org) Smart home, open source automation tool.
-* [Hass TryFi](https://github.com/sbabcock23/hass-tryfi) Home Assistant integration for TryFi Dog Collar GPS monitoring.
+* [OpenHAB](https://www.openhab.org) smart home, open source automation tool.
+* [Hass TryFi](https://github.com/sbabcock23/hass-tryfi) home Assistant integration for TryFi Dog Collar GPS monitoring.
 ### Machine Learning
-* [PawPal](https://github.com/ehofesmann/PawPal) Training your dog while you are away.
-* [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) Determine the breed of a dog in an image.
-* [dogTorch](https://github.com/ehsanik/dogTorch) Modeling Dog Behavior From Visual Data.
-* [Dogspotting](https://github.com/rileynwong/dogspotting) Computer vision to draw bounding boxes around dogs in pictures.
-* [Dog Bark Detector](https://github.com/lincolnhard/dog-bark-detector) Detect dog bark from spectrogram classification.
-* [Pet Pawpularity](https://github.com/BexTuychiev/pet_pawpularity) Figuring out cuteness score of your pets.
+* [PawPal](https://github.com/ehofesmann/PawPal) training your dog while you are away.
+* [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) determine the breed of a dog in an image.
+* [dogTorch](https://github.com/ehsanik/dogTorch) modeling Dog Behavior From Visual Data.
+* [Dogspotting](https://github.com/rileynwong/dogspotting) computer vision to draw bounding boxes around dogs in pictures.
+* [Dog Bark Detector](https://github.com/lincolnhard/dog-bark-detector) detect dog bark from spectrogram classification.
+* [Pet Pawpularity](https://github.com/BexTuychiev/pet_pawpularity) figuring out cuteness score of your pets.
 ### Pedigree
-* [Open Pedigree](https://github.com/phenotips/open-pedigree) Robust browser-based genomic pedigree drawing solution.
-* [Doggo](https://github.com/gussell87/doggo) Right breed based on your lifestyle search.
+* [Open Pedigree](https://github.com/phenotips/open-pedigree) robust browser-based genomic pedigree drawing solution.
+* [Doggo](https://github.com/gussell87/doggo) right breed based on your lifestyle search.
 ### Photography
-* [Pet Focus](https://github.com/roverdotcom/pet-focus) An image view that automatically centers on dogs and cats.
+* [Pet Focus](https://github.com/roverdotcom/pet-focus) an image view that automatically centers on dogs and cats.
 ### Veterinary
-* [VetGeo](https://www.vetgeo.com) 
-* [OpenVPMS](https://openvpms.org)
-* [VetteV](https://sourceforge.net/projects/vettev/)
-* [Open Source Clinical Image and Object Management](https://www.dcm4che.org)
-* [Evette](https://sourceforge.net/projects/evette/)
+* [VetGeo](https://www.vetgeo.com) free vet cloud software from Sweden
+* [OpenVPMS](https://openvpms.org) open veterinary professional management software.
+* [VetteV](https://sourceforge.net/projects/vettev/) open source veterinary management software.
+* [Open Source Clinical Image and Object Management](https://www.dcm4che.org) collection of open source applications and utilities for the healthcare enterprise.
