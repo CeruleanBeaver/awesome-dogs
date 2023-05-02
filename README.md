@@ -1,8 +1,13 @@
 # awesome-dogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Dogs are the oldest domesticated non-livestock animal, so naturally there is a great mutualistic relationship between dogs and humans.  
-![dogs](https://user-images.githubusercontent.com/127071975/235584706-ff07e296-87c0-4246-9602-86f2574537f6.jpg)
+Dogs are the oldest domesticated non-livestock animals, so naturally there is a great mutualistic relationship between dogs and humans.  
+<img
+src="https://user-images.githubusercontent.com/127071975/235584706-ff07e296-87c0-4246-9602-86f2574537f6.jpg"
+alt="Alt text"
+align="right"
+title="Optional Title"
+style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-# Contents
+## Contents
 * Databases
 * Education
 * Literature
