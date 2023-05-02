@@ -1,5 +1,5 @@
 # awesome-dogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# Table Of Contents
+# Contents
 * Databases
 * Education
 * Literature
