@@ -15,6 +15,8 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * Projects
 * Software
 ## Databases
+### Food
+* [DogFoodAdvisor](https://www.dogfoodadvisor.com/) database of Dog food
 ### Genetics
 * [Penn Vet](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) pet genetic diseases database
 * [Dog Aging Project](https://dogagingproject.org/open_data_access/) database related to maximize longevity of dogs
