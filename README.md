@@ -52,6 +52,8 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639) research article with data from Darwins Ark.
 * [The Institute of Canine Biology](https://www.instituteofcaninebiology.org) consortium of canine biologists.
 * [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10) relational database "DOG-SPOT" (Dogs, Owners, Genotypes, Samples, Pedigrees, Oligos and Traits) implemented in Microsoft Access
+### Open Source
+* [Ten simple rules for funding scientific open source software](https://doi.org/10.1371/journal.pcbi.1010627) Tips on how to get funding to maintain an open source project, long term.
 ## Miscellaneous
 ### Poison Control
 * [Animal Poison Control](https://www.petpoisonhelpline.com) pet poison control detailed information.
