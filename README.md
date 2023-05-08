@@ -71,6 +71,8 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### Positive Reinforcement
 * [Developing a Computer-Controlled Treat Dispenser for Canine Operant Conditioning](https://openhardware.metajnl.com/articles/10.5334/joh.27) commercial treat dispenser retrofitted computer controlled dispenser for canine cognition.
 * [DogOnMat - Train your dog with AI and Positive Reinforcement](https://www.hackster.io/joerg4/dogonmat-train-your-dog-with-ai-and-positive-reinforcement-c94be6) computer train your dog to stay on its mat with positive reinforcement.
+### Research
+* [metafluidics](https://metafluidics.org/) Open repository for for fluidic systems
 ## Software
 ### Adoption
 * [Adoptable pet bot](https://www.serverless.com/examples/adoptable-pet-bot) tweets adoptable pets using Serverless (Node.js) and AWS Lambda.
