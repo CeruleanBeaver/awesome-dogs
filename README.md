@@ -17,6 +17,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ## Databases
 ### Financial
 * [MyPetChild](https://www.mypetchild.com/) A database of organizations that offer pet financial assistance, to struggling pet owners.
+* [North American Pet Health Insurance Association](https://naphia.org/) A database of pet insurance data and companies.
 ### Food
 * [DogFoodAdvisor](https://www.dogfoodadvisor.com/) database of Dog food
 * [EWG Food Scores](https://www.ewg.org/foodscores/) database of Human food
