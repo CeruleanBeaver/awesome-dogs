@@ -34,6 +34,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
 ### Medical
 * [Physionet](https://physionet.org/) databases of complex physiologic signals
+* [The Science Bank](https://thesciencebank.org/) database of alternatives to animal use in education
 ### Missing
 * [Pet FBI](https://petfbi.org) database for lost and found pets
 ### Parasites
