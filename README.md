@@ -59,6 +59,8 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [DOG-SPOT database for comprehensive management of dog genetic research data](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-5-10) relational database "DOG-SPOT" (Dogs, Owners, Genotypes, Samples, Pedigrees, Oligos and Traits) implemented in Microsoft Access
 ### Open Source
 * [Ten simple rules for funding scientific open source software](https://doi.org/10.1371/journal.pcbi.1010627) Tips on how to get funding to maintain an open source project, long term.
+### Senses
+* [Through a Dog's Eyes: fMRI Decoding of Naturalistic Videos from the Dog Cortex](https://dx.doi.org/10.3791/64442) How the dog sees nature
 ## Miscellaneous
 ### Poison Control
 * [Animal Poison Control](https://www.petpoisonhelpline.com) pet poison control detailed information.
