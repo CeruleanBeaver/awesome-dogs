@@ -34,7 +34,6 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
 ### Medical
 * [Physionet](https://physionet.org/) databases of complex physiologic signals
-* [The Science Bank](https://thesciencebank.org/) database of alternatives to animal use in education
 ### Missing
 * [Pet FBI](https://petfbi.org) database for lost and found pets
 ### Parasites
@@ -45,13 +44,14 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### Stains
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) stain Removal Database
 ## Education
-### Breeding
-* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
 ### Animal Health
 * [Dog Emotion and Cognition](https://www.coursera.org/learn/dog-emotion-and-cognition) a Dog psychology course on Coursera, presented by Duke university. 
 * [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) an Animal welfare course on Coursera, presented by the university of Edinburgh.
 * [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs) a pet behaviour course on Coursera, presented by the university of Edinburgh.
 * [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions) a Dog behaviour course on Edx, presented by the Arizona State University.
+* * [The Science Bank](https://thesciencebank.org/) alternatives to animal use in education
+### Breeding
+* [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
 ## Literature
 ### Genetics
 * [Ancestry-inclusive dog genomics challenges popular breed stereotypes](https://www.science.org/doi/10.1126/science.abk0639) research article with data from Darwins Ark.
