@@ -49,7 +49,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare) an Animal welfare course on Coursera, presented by the university of Edinburgh.
 * [The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs) a pet behaviour course on Coursera, presented by the university of Edinburgh.
 * [Dog Behavior: Problems and Solutions](https://www.edx.org/course/dog-behavior-problems-and-solutions) a Dog behaviour course on Edx, presented by the Arizona State University.
-* * [The Science Bank](https://thesciencebank.org/) alternatives to animal use in education
+* [The Science Bank](https://thesciencebank.org/) alternatives to animal use in education
 ### Breeding
 * [Learn to design, execute and optimize animal breeding](https://www.edx.org/professional-certificate/wageningenx-animal-breeding-and-genetics) professional certificate on Edx establishing an effective animal breeding program, presented by Wageningen university.
 ## Literature
@@ -66,6 +66,8 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Animal Poison Control](https://www.petpoisonhelpline.com) pet poison control detailed information.
 ### Simulation
 * [Coblis — Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) get a feeling of how it is to have a color vision handicap (Dogs have dichromatic vision).
+### Videos
+* [EarthCam](https://www.earthcam.com/) collection of live stream videos
 ### White Noise
 * [myNoise](https://mynoise.net) creates beautiful noises to mask the sounds you don’t want to hear. 
 ## Projects
