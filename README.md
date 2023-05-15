@@ -88,6 +88,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### AI
 * [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) Animal pose estimation.
 * [MONAI](https://monai.io/) AI toolkit for medical imaging
+* [GeoCam](https://github.com/NaturalSolutions/GeoCam) Manage camera trap data.
 ### API
 * [Petfinder API](https://www.petfinder.com/developers/v2/docs/) an API of access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. 
 * [Dog Facts API](https://github.com/DucNgn/Dog-Facts-API-v2) an API returns random dog facts
