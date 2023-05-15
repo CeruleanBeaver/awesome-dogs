@@ -21,6 +21,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### Food
 * [DogFoodAdvisor](https://www.dogfoodadvisor.com/) database of Dog food
 * [EWG Food Scores](https://www.ewg.org/foodscores/) database of Human food
+* [Seafood Data](https://sjomatdata.hi.no/#search/) database of Seafood
 ### Genetics
 * [Penn Vet](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) pet genetic diseases database
 * [Dog Aging Project](https://dogagingproject.org/open_data_access/) database related to maximize longevity of dogs
