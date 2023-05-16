@@ -100,6 +100,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ### Home
 * [OpenHAB](https://www.openhab.org) smart home, open source automation tool.
 * [Hass TryFi](https://github.com/sbabcock23/hass-tryfi) home Assistant integration for TryFi Dog Collar GPS monitoring.
+* [Anymeal](https://github.com/wedesoft/anymeal) Recipe management
 ### Machine Learning
 * [PawPal](https://github.com/ehofesmann/PawPal) training your dog while you are away.
 * [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/) determine the breed of a dog in an image.
