@@ -33,6 +33,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Dogsbite](https://www.dogsbite.org/dog-bite-statistics-fatalities.php) database of dog bites
 * [Infodog](https://infodog.com/) Dog show results database.
 * [Shelter Animals Count](https://www.shelteranimalscount.org/) Animal Shelter Database
+* [BringFido](https://www.bringfido.com/sitemap/destination/) Dog friendly vacation database
 ### Media
 * [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) an 120 dog breeds of over 20,000 images
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
