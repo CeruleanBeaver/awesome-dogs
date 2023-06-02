@@ -20,6 +20,7 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [North American Pet Health Insurance Association](https://naphia.org/) A database of pet insurance data and companies.
 ### Food
 * [DogFoodAdvisor](https://www.dogfoodadvisor.com/) database of Dog food
+* [PetFoodIndustry](https://www.petfoodindustry.com/) database of Pet food Manufacturers
 * [EWG Food Scores](https://www.ewg.org/foodscores/) database of Human food
 * [Seafood Data](https://sjomatdata.hi.no/#search/) database of Seafood
 ### Genetics
@@ -34,11 +35,13 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 * [Infodog](https://infodog.com/) Dog show results database.
 * [Shelter Animals Count](https://www.shelteranimalscount.org/) Animal Shelter Database
 * [BringFido](https://www.bringfido.com/sitemap/destination/) Dog friendly vacation database
+* [PetFriendlyTravel](https://petfriendlytravel.com/) Dog friendly vacation database
 ### Media
 * [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) an 120 dog breeds of over 20,000 images
 * [Audio Cats and Dogs](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs) Dog and Cat audio dataset
 ### Medical
 * [Physionet](https://physionet.org/) databases of complex physiologic signals
+* [VeterinaryPartner](https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102888) database of vet information
 ### Missing
 * [Pet FBI](https://petfbi.org) database for lost and found pets
 ### Parasites
